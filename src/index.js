@@ -43,4 +43,5 @@ const url = 'https://jsonplaceholder.typicode.com/todos'
 // const data = getData((res)=>{
 //     console.log("data received from promises with named function",res)
 // })
+console.log("deployment 1")
     
